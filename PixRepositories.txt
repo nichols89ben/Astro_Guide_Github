@@ -21,3 +21,6 @@ https://www.cosmicphotons.com/pi-scripts/bfke/
 https://www.cosmicphotons.com/pi-scripts/copyastrometricsolution/
 https://pixinsight-updates.astroswell.com/
 https://paulymanastro.photography/OrtonGlow/
+https://pixinsight.starnetastro.com/
+https://pixinsight.starnetastro.com/tensorflow/
+https://raw.githubusercontent.com/setiastro/cosmicclarity/main/
